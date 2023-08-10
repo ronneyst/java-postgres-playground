@@ -1,3 +1,4 @@
+-- Active: 1691517956072@@127.0.0.1@5432
 -- Script PostgreSQL com cadastro de cidades e estados do país, conforme IBGE.
 -- Adaptado de https://www.ricardoarrigoni.com.br/cidades-brasil-lista-de-cidades-brasileiras-em-sql/
 -- Área por estado: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área
